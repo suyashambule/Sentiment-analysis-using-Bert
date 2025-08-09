@@ -1,0 +1,24 @@
+# Core machine learning and deep learning libraries
+tensorflow>=2.10.0
+transformers>=4.20.0
+datasets>=2.0.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Web framework for deployment
+flask>=2.2.0
+
+# Additional transformers dependencies
+tokenizers>=0.13.0
+huggingface-hub>=0.10.0
+
+# Jupyter notebook environment (optional for production)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional utilities
+scikit-learn>=1.0.0
