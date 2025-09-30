@@ -281,14 +281,4 @@ Feel free to contribute to this project by:
 5. Adding new model architectures
 6. Enhancing the web interface
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-**Author**: [Your Name]  
-**Contact**: [Your Email]  
-**Date**: [Current Date]
-
 *This project serves as a comprehensive example of modern NLP applications, combining state-of-the-art transformer models with practical web deployment for real-world sentiment analysis tasks.*
